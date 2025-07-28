@@ -1,0 +1,21 @@
+### **Programação Segundo semestre:**
+
+| Javascript |
+| --- |
+| React |
+| Alimentação vinda de API |
+| Aplicação correta em pares |
+
+---
+
+### Front-end:
+
+- Web APP
+- Mobile APP
+
+**O que é front-end?**
+
+É a interface do usuário nos sistemas web. Usamos HTML, CSS e Javascript, para criarmos a interface e as interações que o usuário será capaz de fazer.
+
+- Javascript é uma linguagem imperativa e baseada em eventos
+- Com o DOM conseguimos manipular as páginas web a partir dos eventos gerados pelo JS
